@@ -30,6 +30,9 @@
     --Darkgrayblue: hsl(224, 30%, 27%);
 }
 
+html{
+    scroll-behavior: smooth;
+}
 
 body{
     font-size: 18px;
@@ -42,7 +45,7 @@ body{
 
     
 section{
-    height: 100vh;
+    height: 100svh;
     overflow-x: hidden;
 }
 
@@ -112,11 +115,12 @@ section{
         color: var(--Lightlavender);
     }
 
-    .card2{
-        width: 100%;
+   .card2{
         padding: 1rem;
+        align-items: center;
+        justify-content: center;
         text-align: center;
-        margin-left: 10px;
+        margin: 0 10px;
     }
 
     .card2box{
