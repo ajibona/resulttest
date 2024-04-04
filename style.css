@@ -115,7 +115,7 @@ section{
     }
 
     .card2{
-        padding: 0 1rem;
+        padding: 0 2rem;
         align-items: center;
         justify-content: center;
         text-align: center;
@@ -209,8 +209,9 @@ img{
 }
 
 button{
-    padding: 15px 20px;
+    padding: 15px 40px;
     margin-top: 30px;
+    font-size: 1.2rem;
     width: 100%;
     border-radius: 20px;
     border: none;
