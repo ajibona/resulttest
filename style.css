@@ -109,7 +109,7 @@ section{
     .marks{
         text-align: center;
         margin-top: 20px;
-        font-size: 1.2rem;
+        font-size: 1.1rem;
         line-height: 25px;
         color: var(--Lightlavender);
     }
@@ -213,7 +213,7 @@ button{
     margin-top: 30px;
     font-size: 1.2rem;
     width: 100%;
-    border-radius: 20px;
+    border-radius: 25px;
     border: none;
     background-color: var(--Darkgrayblue);
     color: var(--White);
@@ -260,6 +260,9 @@ section{
 
 .card1text{
 padding: 2rem;
+display: flex;
+align-items: center;
+justify-content: center;
 }
 h3{
     text-align: center;
@@ -307,7 +310,8 @@ h4{
 .marks{
     text-align: center;
     margin-top: 20px;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
+    width: 200px;
     line-height: 20px;
     color: var(--Lightlavender);
 }
@@ -412,7 +416,8 @@ button{
     padding: 15px 20px;
     margin-top: 30px;
     width: 100%;
-    border-radius: 20px;
+    font-size: 0.9rem;
+    border-radius: 25px;
     border: none;
     background-color: var(--Darkgrayblue);
     color: var(--White);
