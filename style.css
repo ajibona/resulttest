@@ -115,12 +115,12 @@ section{
         color: var(--Lightlavender);
     }
 
-   .card2{
-        padding: 1rem;
+    .card2{
+        padding: 0 1rem;
         align-items: center;
         justify-content: center;
         text-align: center;
-        margin: 0 5px;
+       
     }
 
     .card2box{
